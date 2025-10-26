@@ -92,3 +92,5 @@ var blocks = setInterval(function(){
         character.style.top = characterTop - 0.5 + "px";
     }
 },1);
+
+// asfasfasawasdas
